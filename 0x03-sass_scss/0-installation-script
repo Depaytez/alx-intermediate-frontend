@@ -1,0 +1,3 @@
+### Steps i took to install SASS
+1. Moved in to 0x03-sass_scss directory
+2. i typed ```npm install sass -v 3.7.4``` in to the terminal
